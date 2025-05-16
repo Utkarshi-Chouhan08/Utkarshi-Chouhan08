@@ -31,7 +31,7 @@
 
 ## 📫 Connect with Me
 
-<a href="https://github.com/utkarshi">
+<a href="https://github.com/Utkarshi-Chouhan08">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
 </a>  
 <a href="https://www.linkedin.com/in/utkarshichouhan/">
