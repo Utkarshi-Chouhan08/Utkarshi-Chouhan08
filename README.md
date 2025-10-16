@@ -4,11 +4,11 @@
 
 # 👋 Hi, I'm Utkarshi!
 
-🎓 Currently pursuing 3rd year Integrated MTech in Information Technology.
+🎓 Currently pursuing 4th year Integrated MTech in Information Technology.
 
-💻 Passionate Java backend developer with experience in **Servlets** and **JSP**.
+🚀 Enthusiastic developer, building skills in MERN Stack 💻
 
-🚀 Learning **Spring Boot** and improving my **Data Structures & Algorithms (DSA)** skills.
+🚀  improving my **Data Structures & Algorithms (DSA)** skills.
 
 🛠️ Skilled in writing clean and scalable code for web applications.
 
@@ -16,9 +16,10 @@
 
 ## 🌟 Skills & Tools
 
-- **Languages:** Java, HTML, CSS, JavaScript  
-- **Database:** MySQL  
-- **Tools:** Eclipse  
+- **Languages:** Java, HTML, CSS, JavaScript
+- Frameworks / Libraries: Node.js, React.js, Tailwind CSS
+- **Database:** MySQL , MongoDB
+- **Tools:** Eclipse, Vs
 
 ---
 
