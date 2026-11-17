@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Utkarshi!
 
-🎓 Currently pursuing 4th year Integrated MTech in Information Technology.
+🎓 Currently pursuing 5th year Integrated MTech in Information Technology.
 
 🚀 Enthusiastic developer, building skills in MERN Stack 💻
 
